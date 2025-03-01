@@ -1,5 +1,8 @@
+streamlit
 pymupdf
 pdf2image
-frontend
-dotenv
+pillow
+python-dotenv
+mistralai
+
 
