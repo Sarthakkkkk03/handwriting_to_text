@@ -1,4 +1,5 @@
 pymupdf
 pdf2image
 frontend
+dotenv
 
